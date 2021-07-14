@@ -1,0 +1,44 @@
+* {
+  font-size: 16px;
+}
+
+body {
+  background-color: #cddadb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+main {
+  margin: auto;
+  max-width: 800px;
+  background-color: #fff;
+  padding: 15px;
+}
+h2 {
+  color: hsl(179, 62%, 43%);
+}
+.bottom_left {
+  color: #fff;
+  background-color: hsl(179, 62%, 33%);
+}
+
+section {
+  padding: 30px !important;
+}
+
+.bottom_right {
+  color: #fff;
+  background-color: hsl(179, 62%, 35%);
+}
+
+.my-btn {
+  padding: 15px 0;
+  background-color: hsl(71, 73%, 54%);
+  width: 100%;
+}
+
+li {
+  list-style: none;
+}
